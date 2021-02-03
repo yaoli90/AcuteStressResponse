@@ -1,6 +1,6 @@
-# AcuteStressResponse 
+# Acute Stress Response 
 ## Dataset
-The Fight-or-flight EEG response dataset is collected from 5 subjects
+The acute stress response  EEG response dataset is collected from 5 subjects
 (age 24-30) in 4 runs. The EEG channels are FP1, FP2, F3, F4, T3, and T4 as
 documented in `channel.csv`. Each run contains 59 seconds of the EEG recording.
 The first 50 seconds are collected when subjects are working on an
