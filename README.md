@@ -1,4 +1,4 @@
-# FightOrFlightResponse
+# AcuteStressResponse 
 ## Dataset
 The Fight-or-flight EEG response dataset is collected from 5 subjects
 (age 24-30) in 4 runs. The EEG channels are FP1, FP2, F3, F4, T3, and T4 as
